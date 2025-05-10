@@ -1,10 +1,15 @@
 {
   "packs": [
-    "AOSCC.json",
+    "MemeManMemesta.json",
+    "jia0_hd.json",
+    "ShamuNekoAzuki.json",
+    "LeGouReloaded_by_favorite_stickers_bot.json",
+    "memepakcn.json",
     "Windows95.json",
+    "Nagao_Kagetora_8.json",
+    "AOSCC.json",
     "mug_zh.json",
     "shitty_logos.json",
-    "LeGouReloaded_by_favorite_stickers_bot.json",
     "ufoludek_hate.json",
     "Chiikawa08.json",
     "wenmingzhongguoren.json",
@@ -43,6 +48,7 @@
     "LINE_Seyana_AKANE_chan.json",
     "arcaea_en.json",
     "v2dailytopics.json",
+    "AmashiroNatsukiEars.json",
     "Suicas.json",
     "LINE_Touhou_Project_Character.json",
     "LINE_Touhou_Project_Everyday.json",
@@ -117,11 +123,7 @@
     "blobmoji.json",
     "TortoiseshellKitten2.json",
     "BakaSonijiPackK2.json",
-    "tiaojiaokafeiting.json",
-    "Nagao_Kagetora_8.json",
-    "jia0_hd.json",
-    "memepakcn.json",
-    "MemeManMemesta.json"
+    "tiaojiaokafeiting.json"
   ],
   "homeserver_url": "https://m.origincode.me"
 }
